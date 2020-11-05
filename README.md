@@ -1,5 +1,7 @@
 # EchoVR-Discord-Rich-Presence
-Made by PundaPCVR#0001 // TheRealPunda
+Made by:
+PundaPCVR#0001 // TheRealPunda
+Kopesh#6815 // Kopesh
 
 Installation Guide:
 > Download and Extract the .ZIP
@@ -18,3 +20,19 @@ Example Images:
 https://cdn.discordapp.com/attachments/709756393376448545/771620469820227624/unknown.png
 https://cdn.discordapp.com/attachments/709756393376448545/771621442906750976/unknown.png
 https://cdn.discordapp.com/attachments/770823818348331009/771266013760847872/unknown.png
+
+Releases:
+v0.1 (Released) [Removed due to many bugs]
+- Shows basic info
+
+v0.2 (Released)
+- Shows more details when in lobby and match.
+- Customisablility for the Rich Presence, choose what you want to be shown.
+
+
+v0.3 (WIP)
+- More Customisablility (VRML mode) for the Rich Presence, choose what you want to be shown.
+- Uses a new way to interact with the API (Thanks Kopesh), to make it more efficent for me to program this and other future programs.
+
+v0.4 (Planned)
+- Quest 1 and 2 support
