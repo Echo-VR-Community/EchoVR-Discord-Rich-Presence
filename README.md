@@ -9,12 +9,13 @@ Installation Guide:
 > Make sure to turn on API in settings in Echo VR.
 
 What does it do?
-> Show your friends on Discord what you're doing in Echo VR.
+Show your friends on Discord what you're doing in Echo VR.
 
-> Customisable, can show a custom status when in Lobby and set how often it refreshes (1 second by default), and will be even more customisable in the future.
+Customisable, can show a custom status when in Lobby and set how often it refreshes (1 second by default), and will be even more customisable in the future.
 
 > VRML Mode (Comming Soon)
-> Show when you're playing a match, it will display team name, and more.
+
+Show when you're playing a match, it will display team name, and more.
 
 Example Images:
 https://cdn.discordapp.com/attachments/709756393376448545/771620469820227624/unknown.png
