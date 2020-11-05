@@ -1,7 +1,6 @@
 # EchoVR-Discord-Rich-Presence
-Made by:
-PundaPCVR#0001 // TheRealPunda
-Kopesh#6815 // Kopesh
+Made by:\
+PundaPCVR#0001 // TheRealPunda & Kopesh#6815 // Kopesh
 
 Installation Guide:
 > Download and Extract the .ZIP
