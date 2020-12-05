@@ -31,9 +31,8 @@ v0.2 (Released)
 - Customisablility for the Rich Presence, choose what you want to be shown.
 
 
-> v0.3 (WIP)
-> - More Customisablility (VRML mode) for the Rich Presence, choose what you want to be shown.
-> - Uses a new way to interact with the API (Thanks Kopesh), to make it more efficent for me to program this and other future programs.
+v0.3 (Released)
+- More Customisablility (VRML mode) for the Rich Presence, choose what you want to be shown.
 
 > v0.4 (Planned)
 > - Quest 1 and 2 support
