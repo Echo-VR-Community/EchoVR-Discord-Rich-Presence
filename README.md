@@ -13,7 +13,7 @@ Show your friends on Discord what you're doing in Echo VR.
 
 Customisable, can show a custom status when in Lobby and set how often it refreshes (1 second by default), and will be even more customisable in the future.
 
-> VRML Mode (Comming Soon)
+VRML Mode 
 
 Show when you're playing a match, it will display team name, and more.
 
