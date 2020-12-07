@@ -34,5 +34,9 @@ v0.2 (Released)
 v0.3 (Released)
 - More Customisablility (VRML mode) for the Rich Presence, choose what you want to be shown.
 
+v0.3.1 (Released) 
+- Fixed bug where application wouldn't open at all.
+- Fixed spelling on application
+
 > v0.4 (Planned)
 > - Quest 1 and 2 support
