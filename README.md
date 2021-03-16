@@ -1,6 +1,6 @@
 # EchoVR-Discord-Rich-Presence
 Made by:\
-PundaPCVR#0001 // TheRealPunda\
+Punda#0001 // Punda-\
 Kopesh#6815 // Kopesh
 
 Installation Guide:
